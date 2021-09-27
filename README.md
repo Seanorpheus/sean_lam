@@ -24,6 +24,7 @@
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[CCAs](#CCAs) <br> 
 
 <!-- ABOUT Section Ends -->
 
@@ -81,5 +82,9 @@ Regression is a supervised learning technique which helps in finding the correla
 Machine Learning by Columbia University
 
 ##### Achievements
+Star performer of the year at Accenture
+<!-- FEATURED Section Ends -->
+
+##### CCAs
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
